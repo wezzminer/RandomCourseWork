@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Pic_Decode:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pic_Decode_jar</output-path>
+    <root id="archive" name="Pic_Decode.jar">
+      <element id="module-output" name="Pic_Decode" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Asteroid Game:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="086ada0e-1cfa-4cbc-933e-717f73ce3301" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bHBum841hJxqV4sCxBK5pXzmGO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Asteroid_Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wessleyAlexander.Asteroidgame.main.Asteroid_Game" />
+      <module name="Asteroid Game" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Asteroid_Game" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="086ada0e-1cfa-4cbc-933e-717f73ce3301" name="Default Changelist" comment="" />
+      <created>1588279363120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588279363120</updated>
+      <workItem from="1588279365735" duration="22426000" />
+      <workItem from="1588321366443" duration="1316000" />
+      <workItem from="1588342180995" duration="6620000" />
+      <workItem from="1588353352616" duration="434000" />
+      <workItem from="1588360712362" duration="1156000" />
+      <workItem from="1588388119334" duration="7491000" />
+      <workItem from="1588395796023" duration="464000" />
+      <workItem from="1588404298888" duration="1253000" />
+      <workItem from="1588405619613" duration="318000" />
+      <workItem from="1588445895024" duration="648000" />
+      <workItem from="1588824725512" duration="14000" />
+      <workItem from="1588834918765" duration="52000" />
+      <workItem from="1588907705730" duration="815000" />
+      <workItem from="1589050962046" duration="1487000" />
+      <workItem from="1589052463723" duration="17000" />
+      <workItem from="1590378021142" duration="201000" />
+      <workItem from="1590378838498" duration="26000" />
+      <workItem from="1600751215650" duration="5492000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1600760168333">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600751660476" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1600760168333" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1600760168333">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600751660475" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1600760168333" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1600760168333">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600751660475" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1600760168333" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1600760168333">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1600751660475" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1600760168333" />
+  </component>
+</project>
